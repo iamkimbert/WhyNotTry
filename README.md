@@ -1,2 +1,3 @@
 # WhyNotTry
-We’ve covered a lot of SwiftUI basics in this tutorial, including text, images, buttons, stacks, animation, and even using @State to mark values that change over time. 
+Use Swift and SwiftUI to build a small app to recommend fun new activities to users. Along the way I use several of the basic components of a SwiftUI app, including text, images, buttons, shapes, stacks, and program state.
+
